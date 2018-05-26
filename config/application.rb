@@ -18,4 +18,4 @@ module Depot
   end
 end
 
-config.filter_parameters += [ :credit_card_number ]
+# config.filter_parameters += [ :credit_card_number ]
